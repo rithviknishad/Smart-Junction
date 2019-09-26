@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SimulationModuleVersion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">v1.0.2</Value>
+    </Setting>
+    <Setting Name="GeometryLibraryVersion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">v1.2.7</Value>
+    </Setting>
+    <Setting Name="Simulation_FrameBufferRefreshInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="Simulation_ComputeInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="Simulation_ComputeAccuraccy" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="LogPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

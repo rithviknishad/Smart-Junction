@@ -1,0 +1,143 @@
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\GUI.exe.config
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\GUI.exe
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\GUI.pdb
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\GUI.exe.CodeAnalysisLog.xml
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\GUI.exe.lastcodeanalysissucceeded
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\Cloo.clSharp.dll
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\Cloo.dll
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\OpenCLlib.pdb
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\Cloo.xml
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Form1.resources
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.Graphics.Graphics.resources
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.MainInterface.resources
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.RoadRight1.resources
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Down1.resources
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_JunctionBox.resources
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Left1.resources
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Up1.resources
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Vehicles.Car.resources
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Vehicles.VehicleDefault.resources
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.TransparentPanel.resources
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.exe
+\\192.168.0.7\SmartCraft Data Server\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.pdb
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\GUI.exe.config
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\GUI.exe
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\GUI.pdb
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\GUI.exe.CodeAnalysisLog.xml
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\GUI.exe.lastcodeanalysissucceeded
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\Cloo.clSharp.dll
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\OpenCLlib.dll
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\Cloo.dll
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\OpenCLlib.pdb
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\bin\Debug\Cloo.xml
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Form1.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.Graphics.Graphics.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.MainInterface.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Junction.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.RoadRight1.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Down1.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_JunctionBox.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Left1.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Up1.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Vehicles.Car.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Vehicles.VehicleDefault.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.SimulationSettings.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.test.VehicleRotation.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.TransparentPanel.resources
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.exe
+R:\PROJECTS\Smart Junction\SIM\GUI\GUI\obj\Debug\GUI.pdb
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\bin\Debug\GUI.exe.config
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\bin\Debug\GUI.exe
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\bin\Debug\GUI.pdb
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\bin\Debug\GUI.exe.CodeAnalysisLog.xml
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\bin\Debug\GUI.exe.lastcodeanalysissucceeded
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\bin\Debug\Cloo.clSharp.dll
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\bin\Debug\OpenCLlib.dll
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\bin\Debug\Cloo.dll
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\bin\Debug\OpenCLlib.pdb
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\bin\Debug\Cloo.xml
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.MainInterface.resources
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Junction.resources
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.RoadRight1.resources
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Down1.resources
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_JunctionBox.resources
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Left1.resources
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Up1.resources
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Vehicles.Car.resources
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Vehicles.VehicleDefault.resources
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.Simulation.UI.SimulationSettings.resources
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.exe
+R:\PROJECTS\Smart Junction\_old\SIM\GUI\GUI\obj\Debug\GUI.pdb
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\bin\Debug\GUI.exe.config
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\bin\Debug\GUI.exe
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\bin\Debug\GUI.pdb
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\bin\Debug\GUI.exe.CodeAnalysisLog.xml
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\bin\Debug\GUI.exe.lastcodeanalysissucceeded
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\bin\Debug\Cloo.clSharp.dll
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\bin\Debug\OpenCLlib.dll
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\bin\Debug\Cloo.dll
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\bin\Debug\OpenCLlib.pdb
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\bin\Debug\Cloo.xml
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.MainInterface.resources
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Junction.resources
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.RoadRight1.resources
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Down1.resources
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_JunctionBox.resources
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Left1.resources
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Up1.resources
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Vehicles.Car.resources
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Vehicles.VehicleDefault.resources
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.SimulationSettings.resources
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.exe
+R:\PROJECTS\Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.pdb
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\bin\Debug\GUI.exe.config
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\bin\Debug\GUI.exe
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\bin\Debug\GUI.pdb
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\bin\Debug\GUI.exe.CodeAnalysisLog.xml
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\bin\Debug\GUI.exe.lastcodeanalysissucceeded
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\bin\Debug\Cloo.clSharp.dll
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\bin\Debug\OpenCLlib.dll
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\bin\Debug\Cloo.dll
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\bin\Debug\OpenCLlib.pdb
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\bin\Debug\Cloo.xml
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.MainInterface.resources
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Junction.resources
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.RoadRight1.resources
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Down1.resources
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_JunctionBox.resources
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Left1.resources
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Road.Road_Up1.resources
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Vehicles.Car.resources
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.Objects.Vehicles.VehicleDefault.resources
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.Simulation.UI.SimulationSettings.resources
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.exe
+R:\PROJECTS\02 Completed\2018  Smart Junction\Simulation\GUI\GUI\obj\Debug\GUI.pdb

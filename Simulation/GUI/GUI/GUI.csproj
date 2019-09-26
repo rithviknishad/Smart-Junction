@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7167A9E8-DFC5-4B7F-BB13-322CE9A51659}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.1</LangVersion>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Cloo.clSharp, Version=0.9.2.7, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Cloo.clSharp.0.9.2.7\lib\net20\Cloo.clSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCLlib">
+      <HintPath>D:\User\Downloads\OpenCLLib\OpenCLlib\bin\Release\OpenCLlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors" />
+    <Reference Include="System.Runtime.Caching" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Threading.Tasks.Dataflow, Version=4.5.24.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Mathematical Tools\Average.cs" />
+    <Compile Include="Mathematical Tools\Comparison.cs" />
+    <Compile Include="Simulation\Driver\Driver.cs" />
+    <Compile Include="Simulation\Driver\Drivers.cs" />
+    <Compile Include="Simulation\Geometry\Angle.cs" />
+    <Compile Include="Simulation\Geometry\Directions.cs" />
+    <Compile Include="Simulation\Geometry\Line2D.cs" />
+    <Compile Include="Simulation\Geometry\LineSegment2D.cs" />
+    <Compile Include="Simulation\Geometry\Point2D.cs" />
+    <Compile Include="Simulation\Geometry\Rectangle2D.cs" />
+    <Compile Include="Simulation\Geometry\Triangle2D.cs" />
+    <Compile Include="Simulation\Graphics\GlobalAdapter.cs" />
+    <Compile Include="Simulation\Graphics\PointMapper.cs" />
+    <Compile Include="Simulation\Graphics\Polygon.cs" />
+    <Compile Include="Simulation\Logging\Log.cs" />
+    <Compile Include="Simulation\Roads\Lanes\Lane.cs" />
+    <Compile Include="Simulation\Roads\Road.cs" />
+    <Compile Include="Simulation\Simulation.cs" />
+    <Compile Include="Simulation\Terrains\SampleJunction.cs" />
+    <Compile Include="Simulation\Terrains\World.cs" />
+    <Compile Include="Simulation\Tools.cs" />
+    <Compile Include="Simulation\UI\MainInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Simulation\UI\MainInterface.Designer.cs">
+      <DependentUpon>MainInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Simulation\UI\NativeMethods.cs" />
+    <Compile Include="Simulation\UI\Objects\Junction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Junction.Designer.cs">
+      <DependentUpon>Junction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Road\RoadRight1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Road\RoadRight1.Designer.cs">
+      <DependentUpon>RoadRight1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Road\Road_Down1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Road\Road_Down1.Designer.cs">
+      <DependentUpon>Road_Down1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Road\Road_JunctionBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Road\Road_JunctionBox.Designer.cs">
+      <DependentUpon>Road_JunctionBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Road\Road_Left1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Road\Road_Left1.Designer.cs">
+      <DependentUpon>Road_Left1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Road\Road_Up1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Road\Road_Up1.Designer.cs">
+      <DependentUpon>Road_Up1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Vehicles\Car.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Vehicles\Car.Designer.cs">
+      <DependentUpon>Car.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Vehicles\VehicleDefault.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Simulation\UI\Objects\Vehicles\VehicleDefault.Designer.cs">
+      <DependentUpon>VehicleDefault.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Simulation\UI\SimulationSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Simulation\UI\SimulationSettings.Designer.cs">
+      <DependentUpon>SimulationSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Simulation\Vehicle\Vehicle.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Simulation\Vehicle\VehicleModels.cs" />
+    <Compile Include="Simulation\Vehicle\VehicleSpecs.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Simulation\UI\MainInterface.resx">
+      <DependentUpon>MainInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simulation\UI\Objects\Junction.resx">
+      <DependentUpon>Junction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simulation\UI\Objects\Road\RoadRight1.resx">
+      <DependentUpon>RoadRight1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simulation\UI\Objects\Road\Road_Down1.resx">
+      <DependentUpon>Road_Down1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simulation\UI\Objects\Road\Road_JunctionBox.resx">
+      <DependentUpon>Road_JunctionBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simulation\UI\Objects\Road\Road_Left1.resx">
+      <DependentUpon>Road_Left1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simulation\UI\Objects\Road\Road_Up1.resx">
+      <DependentUpon>Road_Up1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simulation\UI\Objects\Vehicles\Car.resx">
+      <DependentUpon>Car.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simulation\UI\Objects\Vehicles\VehicleDefault.resx">
+      <DependentUpon>VehicleDefault.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simulation\UI\SimulationSettings.resx">
+      <DependentUpon>SimulationSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stripes.png" />
+    <None Include="Resources\Picture1.png" />
+    <None Include="Resources\pedestrian_whitesmoke.png" />
+    <None Include="Resources\pedestrian.png" />
+    <None Include="Resources\jbox__.png" />
+    <None Include="Resources\jbox.png" />
+    <None Include="Resources\testV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down_drop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_buttonw_processed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_button_processed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restore_buttonw_processed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restore_button_processed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b163555243801798e8d9c3e64c704107-cloud-storage-and-download-icon-by-vexels.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flat_seo2-17-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\array_hosting_network_rack_server_storage_system_icon_128.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
